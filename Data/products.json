@@ -1,0 +1,75 @@
+[
+    {
+        "productId": "62203211434",
+        "productName": "Chips Tomato",
+        "price": 5,
+        "stock": 50,
+        "available": "outOfStock"
+    },
+    {
+        "price": 5,
+        "productId": "6220321143",
+        "available": "inStock",
+        "productName": "شيبسى"
+    },
+    {
+        "price": 56,
+        "productId": "12",
+        "available": "inStock",
+        "productName": "Juce"
+    },
+    {
+        "price": 6,
+        "productId": "8",
+        "available": "inStock",
+        "productName": "Egg"
+    },
+    {
+        "price": 10,
+        "productId": "9",
+        "available": "inStock",
+        "productName": "ice cream"
+    },
+    {
+        "price": 1,
+        "productId": "10",
+        "available": "inStock",
+        "productName": "ice"
+    },
+    {
+        "price": 50,
+        "productId": "5",
+        "available": "inStock",
+        "productName": "سكر"
+    },
+    {
+        "price": 10,
+        "productId": "122",
+        "available": "inStock",
+        "productName": "Chipsy"
+    },
+    {
+        "price": 5,
+        "productId": "5285000391647",
+        "available": "inStock",
+        "productName": "Endomey Vegetabules"
+    },
+    {
+        "price": 50,
+        "productId": "6222014336188",
+        "available": "inStock",
+        "productName": "عصير جهينة 2 لتر"
+    },
+    {
+        "price": 50,
+        "productId": "6222014336133",
+        "available": "inStock",
+        "productName": "عصير مانجو 1 لتر"
+    },
+    {
+        "price": 20,
+        "productId": "55",
+        "available": "inStock",
+        "productName": "لبن"
+    }
+]
