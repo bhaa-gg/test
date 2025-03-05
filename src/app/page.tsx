@@ -5,17 +5,9 @@ import React from "react";
 const Home = () => {
   return (
     <div className="">
-    <div className="w-full">
-        <TodayProperts />
-        <TodayProperts />
         <TodayProperts />
         <ProductTable />
-        <ProductTable />
-        <ProductTable />
-        <ProductTable />
-        <ProductTable />
-    </div>
-    </div>
+      </div>
   );
 };
 
