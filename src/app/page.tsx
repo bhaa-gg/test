@@ -8,6 +8,8 @@ const Home = () => {
       <div className="">
         <TodayProperts />
         <ProductTable />
+        <TodayProperts />
+        <ProductTable />
       </div>
     </div>
   );
