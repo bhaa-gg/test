@@ -1,4 +1,3 @@
-import Das from "@/Components/das";
 import ProductTable from "@/Components/ProductTable";
 import TodayProperts from "@/Components/TodayProperts";
 import React from "react";
@@ -13,9 +12,6 @@ const Home = () => {
         <ProductTable />
         <ProductTable />
         <ProductTable />
-        <ProductTable />
-        <ProductTable />
-        {/* <Das /> */}
       </div>
     </div>
   );
