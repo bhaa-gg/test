@@ -5,10 +5,6 @@ import React from "react";
 const Home = () => {
   return (
     <div className="">
-      <div className="">
-        <TodayProperts />
-        <ProductTable />
-      </div>
     </div>
   );
 };
