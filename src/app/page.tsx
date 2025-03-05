@@ -6,6 +6,7 @@ const Home = () => {
     <div className="">
     <div className=""></div>
       <Tse/>
+    <div className=""></div>
     </div>
   );
 };
