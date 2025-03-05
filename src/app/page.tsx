@@ -5,8 +5,12 @@ import React from "react";
 const Home = () => {
   return (
     <div className="">
+    <div className="w-full">
         <TodayProperts />
         <ProductTable />
+        <TodayProperts />
+        <ProductTable />
+    </div>
     </div>
   );
 };
