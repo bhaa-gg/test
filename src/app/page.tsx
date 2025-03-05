@@ -1,16 +1,10 @@
-import ProductTable from "@/Components/ProductTable";
-import TodayProperts from "@/Components/TodayProperts";
+import Tse from "@/Components/Tse";
 import React from "react";
 
 const Home = () => {
   return (
     <div className="">
-      <div className="">
-        <TodayProperts />
-        <ProductTable />
-        <TodayProperts />
-        <ProductTable />
-      </div>
+      <Tse/>
     </div>
   );
 };
