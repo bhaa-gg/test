@@ -13,6 +13,8 @@ const Home = () => {
         <ProductTable />
         <ProductTable />
         <ProductTable />
+        <ProductTable />
+        <ProductTable />
         {/* <Das /> */}
       </div>
     </div>
