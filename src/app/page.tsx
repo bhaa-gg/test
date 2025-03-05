@@ -8,8 +8,6 @@ const Home = () => {
     <div className="w-full">
         <TodayProperts />
         <ProductTable />
-        <TodayProperts />
-        <ProductTable />
     </div>
     </div>
   );
