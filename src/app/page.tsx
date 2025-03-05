@@ -5,7 +5,7 @@ import React from "react";
 const Home = () => {
   return (
     <div className="">
-    <div className="w-full">
+    <div className="w-full mxasdasd">
         <TodayProperts />
         <ProductTable />
         <ProductTable />
